@@ -1,4 +1,4 @@
-# UMF Patient Management System – Google Apps Script Web App
+# Patient Management System – Google Apps Script Web App
 
 This project is a medical registry system used for managing patient records at the **UMF Cluj** student clinic — consultations, physical exams, prescriptions, and the medical/sport/absence certificates the clinic issues.
 It uses a **Google Apps Script backend** connected to a lightweight **HTML/CSS/JS frontend**, all running inside the Google Workspace ecosystem.
